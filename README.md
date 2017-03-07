@@ -34,3 +34,7 @@
 [Animatronic EyeBalls](http://www.thingiverse.com/thing:178632)
 
 ![Animatronic EyeBalls](http://thingiverse-production-new.s3.amazonaws.com/renders/e7/0d/e9/f0/d2/20131106_102445_preview_featured.jpg)
+
+[Eye Mechanism](http://www.thingiverse.com/thing:1152248)
+
+![Eje mechanism](http://thingiverse-production-new.s3.amazonaws.com/renders/c2/c4/8b/15/53/IMG_4608_preview_featured.JPG)
