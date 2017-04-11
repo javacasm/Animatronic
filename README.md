@@ -8,6 +8,7 @@
 
 ![atras](./images/Atras_2_felix.jpg)
 
+![mecanismo](./images/mecanismo_Felix.png)
 
 ## Proyectos similares
 
@@ -44,3 +45,20 @@
 [Eye Mechanism](http://www.thingiverse.com/thing:1152248)
 
 ![Eje mechanism](http://thingiverse-production-new.s3.amazonaws.com/renders/c2/c4/8b/15/53/IMG_4608_preview_featured.JPG)
+
+
+### posibles mecanismos:
+
+El movimiento lo realizan servos que por medio de un mecanismo de rack y piñón mueven hilos de acero conectados a las piezas móviles
+
+[servos 9g](http://www.thingiverse.com/thing:896781)
+
+![servo 9g](http://thingiverse-production-new.s3.amazonaws.com/renders/13/c7/f8/ab/7b/assieme_3_preview_featured.JPG)
+
+![servo s303](http://www.thingiverse.com/thing:701119/)
+
+![s303](http://thingiverse-production-new.s3.amazonaws.com/renders/af/84/9f/71/a2/Assembled_preview_featured.jpg)
+
+[miniservo](http://www.thingiverse.com/thing:1390193)
+
+![miniservo](http://thingiverse-production-new.s3.amazonaws.com/renders/f8/cf/15/2f/52/3ea9c59c9ebfffc2468e9766284262f4_preview_featured.jpg)
