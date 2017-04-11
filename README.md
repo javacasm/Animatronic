@@ -1,5 +1,7 @@
 # Animatronic
 
+En la exposición del del Parque de las ciencias lo llaman "Felix"
+
 ![Robot Parque ciencias](./images/robot_Parque_Ciencias.jpg)
 
 ![perfil](./images/Perfil_felix.jpg)
@@ -9,6 +11,12 @@
 ![atras](./images/Atras_2_felix.jpg)
 
 ![mecanismo](./images/mecanismo_Felix.png)
+
+[Vídeo sobre el robot](https://www.youtube.com/watch?v=96ECx5YY3eg)
+
+[Vídeo sobre su desarrollo](https://www.youtube.com/watch?v=6EbsyTpqZjY)
+
+Desarrollado por [Archimedes Exibitions](http://www.archimedes-exhibitions.de/)
 
 ## Proyectos similares
 
