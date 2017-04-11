@@ -2,6 +2,12 @@
 
 ![Robot Parque ciencias](./images/robot_Parque_Ciencias.jpg)
 
+![perfil](./images/Perfil_felix.jpg)
+
+![front](./images/Felix_front.jpg)
+
+![atras](./images/Atras_2_felix.jpg)
+
 
 ## Proyectos similares
 
